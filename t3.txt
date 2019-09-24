@@ -1,0 +1,5 @@
+Check your email for a link to reset your password.
+https://github.com/yogeshsomvanshi1/devops-practices.git
+
+git config --global user.email "yogeshsomvanshi@gmail.com"
+git config --global user.name "yogeshsomvanshi1"
