@@ -1,0 +1,1 @@
+This question seems like a duplicate but it's really not. Just a slight difference that keeps on repeating. git keeps on telling me: "please tell me who you are", even after setting it up. when I run git commit, this is what I get
